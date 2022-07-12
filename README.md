@@ -1,1 +1,2 @@
-# Julia24
+# Geologist
+Geologist Project
